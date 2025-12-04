@@ -71,8 +71,7 @@
 
 首页与趋势页示例：
 
-![首页](docs/screenshots/home.png)
+![首页](images/home.jpg)
 
-![趋势页](docs/screenshots/trend.png)
+![趋势页](images/trend.jpg)
 
-将你的截图文件命名为 `home.png`、`trend.png` 放到 `docs/screenshots/` 目录即可在 README 中显示。
